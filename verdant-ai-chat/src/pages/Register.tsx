@@ -46,8 +46,8 @@ export default function Register() {
           </p>
         </div>
         <p className="text-primary-foreground/60 text-sm">
-          © 2024 AuraPilot. All rights reserved.
-        </p>
+          AuraPilot
+        </p> 
       </div>
 
       {/* Right side - Form */}
